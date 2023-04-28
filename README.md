@@ -10,10 +10,10 @@ Berikut adalah langkah-langkah untuk menjalankan project ini pada komputer kalia
     git clone https://github.com/hlkgt/project-ukk-sekolah.git
 ```
 
--   Ketikkan Code "npm install"
+-   Ketikkan Code "composer install"
 
 ```
-    npm install
+    composer install
 ```
 
 -   ketikkan code "cp .env.example .env"
