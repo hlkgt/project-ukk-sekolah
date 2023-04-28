@@ -7,19 +7,19 @@ Berikut adalah langkah-langkah untuk menjalankan project ini pada komputer kalia
 -   Pertama Buka terminal, dan ketikkan code berikut
 
 ```
-    <code>https://github.com/hlkgt/project-ukk-sekolah.git</code>
+    git clone https://github.com/hlkgt/project-ukk-sekolah.git
 ```
 
 -   Ketikkan Code "npm install"
 
 ```
-    <code>npm install</code>
+    npm install
 ```
 
 -   ketikkan code "cp .env.example .env"
 
 ```
-    <code>cp .env.example .env</code>
+    cp .env.example .env
 ```
 
 -   Buat Database baru dengan nama "projectukk"
@@ -27,23 +27,23 @@ Berikut adalah langkah-langkah untuk menjalankan project ini pada komputer kalia
 -   ketikkan code "php artisan key:generate"
 
 ```
-    <code>php artisan key:generate</code>
+    php artisan key:generate
 ```
 
 -   ketikkan code "php artisan migrate --seed"
 
 ```
-    <code>php artisan migrate --seed</code>
+    php artisan migrate --seed
 ```
 
 -   ketikkan code "php artisan serv"
 
 ```
-    <code>php artisan serv</code>
+    php artisan serv
 ```
 
 -   Masuk ke browser ketik link berikut "localhost:8000"
 
 ```
-    <code>localhost:8000</code>
+    localhost:8000
 ```
